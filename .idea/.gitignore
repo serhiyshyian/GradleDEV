@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignore Gradle build directory
+/build/
+
+# Ignore IntelliJ IDEA settings directory
+/.idea/
+
+# Ignore temporary files with .tmp extension
+*.tmp
